@@ -273,7 +273,7 @@ import {
 import Link from "next/link";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"; // Assuming Shadcn UI tooltip
 
-import React, { useState, useEffect } from 'react'; // Import useState and useEffect for scroll animation
+import React, { useState} from 'react'; // Import useState and useEffect for scroll animation
 import { cn } from "@/lib/utils"; // Import cn for conditional class joining
 import { useScrollAnimation } from "@/hook/use-Scroll-Animation"; // Import the custom scroll animation hook
 
