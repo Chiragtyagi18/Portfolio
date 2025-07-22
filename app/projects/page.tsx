@@ -185,7 +185,7 @@ const projectsData = [
 ];
 
 const ProjectsPage = () => {
-  const router = useRouter();
+  // const router = useRouter();
   const { ref: headerRef, isVisible: headerVisible } = useScrollAnimation({
     threshold: 0.1,
     rootMargin: '0px'
