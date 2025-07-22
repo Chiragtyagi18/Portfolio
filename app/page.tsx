@@ -353,7 +353,8 @@ export default function HomePage() {
               >
                 <div className="space-y-4">
                   <h1 className="text-5xl md:text-7xl font-bold tracking-tight">
-                    Hi&apos  I&lsquom{" "}
+                    Hi,&nbsp;I&apos;m {" "}
+
                     <span className="text-primary animate-pulse-slow">
                       CHIRAG TYAGI
                     </span>
