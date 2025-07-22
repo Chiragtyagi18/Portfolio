@@ -2,7 +2,7 @@
 'use client'; // This file uses client-side interactivity (animations, hooks, components)
 
 import React from 'react';
-import { useRouter } from 'next/navigation';
+// import { useRouter } from 'next/navigation';
 import { ExternalLink, Github } from "lucide-react"; // Import all necessary Lucide icons
 
 // UI Components (assuming these are from shadcn/ui or similar)
